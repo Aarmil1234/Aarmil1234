@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Aarmil
 
-<!--
-**Aarmil1234/Aarmil1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+🚀 React | Node.js | JavaScript  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Passionate about building web apps
+- Learning new technologies
+- Love solving problems
+
+---
+
+## 🛠 Skills
+
+**Frontend**
+- React
+- HTML
+- CSS
+- Tailwind
+
+**Backend**
+- Node.js
+- Express
+
+**Database**
+- MongoDB
+- MySQL
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Aarmil1234&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aarmil1234)
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn
+- Portfolio
+- Instagram
