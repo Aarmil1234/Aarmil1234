@@ -41,11 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aarmil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aarmil1234\&show_icons=true\&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
@@ -53,11 +48,6 @@
 
 ---
 
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarmil1234\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🚀 Projects
 
